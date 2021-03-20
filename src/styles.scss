@@ -67,4 +67,8 @@ $form-select-focus-box-shadow: 0;
   font-size: 1.2rem;
 }
 
-// @import "../src/app/modules/scorer/dashboard/dashboard.component.scss";
+@import "../src/app/modules/admin/dashboard/dashboard.component.scss";
+
+.navbar-collapse {
+  flex-grow: 0;
+}
